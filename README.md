@@ -7,3 +7,9 @@
 - [Lesson 3: Basics of TypeScript](ts-basics.md)
 - [Lesson 4: Explicit & Union Types](explicit-union-types.md)
 - [Lesson 5: Dynamic Type](dynamic-type.md)
+
+
+
+## Reference
+
+- [Learn With Sumit (Bangla) - YouTube](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3&si=I_C2nfR56abOoV7x)
