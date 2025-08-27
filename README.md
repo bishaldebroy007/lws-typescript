@@ -3,4 +3,4 @@
 ## Index
 
 - [Lesson 1: Intro to TypeScript](intro.md)
-- [Lesson 2:](/) 
+- [Lesson 2: Editor Setup & Compilation](setup-compile.md) 
