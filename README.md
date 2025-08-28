@@ -14,6 +14,7 @@
 - [Lesson 10: Access Modifiers](access-modifiers.md)
 - [Lesson 11: Module System](module-system.md)
 - [Lesson 12: Interfaces](interfaces.md)
+- [Lesson 13: Generics](generics.md)
 
 
 ## Reference
