@@ -8,6 +8,7 @@
 - [Lesson 4: Explicit & Union Types](explicit-union-types.md)
 - [Lesson 5: Dynamic Type](dynamic-type.md)
 - [Lesson 6: Functions](functions.md)
+- [Lesson 7: Type Aliases](type-aliases.md)
 
 
 ## Reference
