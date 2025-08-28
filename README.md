@@ -10,6 +10,7 @@
 - [Lesson 6: Functions](functions.md)
 - [Lesson 7: Type Aliases](type-aliases.md)
 - [Lesson 8: Function Signatures](function-signatures.md)
+- [Lesson 9: Classes in TypeScript](classes.md)
 
 
 ## Reference
