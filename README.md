@@ -15,6 +15,7 @@
 - [Lesson 11: Module System](module-system.md)
 - [Lesson 12: Interfaces](interfaces.md)
 - [Lesson 13: Generics](generics.md)
+- [Lesson 14: Enum](enum.md)
 
 
 ## Reference
